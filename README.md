@@ -1,1 +1,2 @@
 # jVoteSystem
+Coming soon.
